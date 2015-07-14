@@ -1,14 +1,14 @@
 # sysadmincasts-scraper
 
-A Clojure library designed to ... well, that part is up to you.
+Grabs a list of videos from [sysadmincasts](https://sysadmincasts.com/) in mp4 format and downloads them (if they haven't been downloaded already)
 
-## Usage
+## Do it
 
-FIXME
+```
+lein run
+```
 
-## License
+## Info
 
-Copyright © 2015 FIXME
+Thrown together before a trip, don't go using this unless you really need to, people need to pay for bandwidth.  Also the code, lets not speak about this code ever again.
 
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
